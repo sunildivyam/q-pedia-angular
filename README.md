@@ -2,6 +2,8 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/q-pedia-angular)
 
+Reference: https://www.syncfusion.com/angular-ui-components?utm_medium=ads&utm_source=googleads&utm_campaign=angular-components&gclid=CjwKCAjw0On8BRAgEiwAincsHIiN8oDAE4020oQKaPuFzEVVTXmoXOAYFQdA7FISnnfwc1zp2G6ddxoCiEYQAvD_BwE
+
 Components:
 ALL COMPONENTS
 GRIDS
