@@ -1,6 +1,6 @@
 # QPediaAngular
 
-This project is an initiative to build a library of angular components for multiple business needs, like retail, education, e-commerce, science & research, and data analytics.
+This project is an initiative to build a library of angular components for multiple business needs, like retail, education, e-commerce, science & research, recruitment, entertainment and data analytics.
 
 ## Common Purpose Components:
 * GRIDS
@@ -93,7 +93,12 @@ This project is an initiative to build a library of angular components for multi
   * Question Form
   * Quiz Form
   * Answer Form
- 
+## Retail
+## E-commerce
+## Science & research
+## Recruitment
+## Data analytics
+## Entertainment 
 # Development and Deployment Steps:
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.

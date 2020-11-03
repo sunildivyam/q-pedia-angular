@@ -9,6 +9,7 @@ import { CardModule } from './card/card.module';
   imports: [
     CommonModule,
     CardModule
-  ]
+  ],
+  exports: [ CardModule ]
 })
 export class QpCommonModule { }
