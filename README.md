@@ -92,7 +92,6 @@ This project is an initiative to build a library of angular components for multi
   * Question Form
   * Quiz Form
   * Answer Form
-  
- ..... TODO: Adding More commponents is in progress
+ 
  
   
