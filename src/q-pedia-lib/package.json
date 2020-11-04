@@ -1,0 +1,11 @@
+{
+  "name": "q-pedia-lib",
+  "version": "0.0.0",
+  "description": "QPediaLib Module imports following modules that refer to business component category modules:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sunil Kumar",
+  "license": "ISC"
+}

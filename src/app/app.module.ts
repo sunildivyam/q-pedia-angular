@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { QPediaLibModule } from '../q-pedia-lib/q-pedia-lib.module';
+import { QPediaLibModule } from '@q-pedia-lib';
 
 @NgModule({
   declarations: [

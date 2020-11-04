@@ -15,6 +15,10 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@q-pedia-lib": ["./src/q-pedia-lib"],
+      "@q-pedia-lib/*": ["./src/q-pedia-lib/*"]
+    }
   }
 }
