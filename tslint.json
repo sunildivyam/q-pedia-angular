@@ -140,12 +140,14 @@
       true,
       "attribute",
       "app",
+      "qp",
       "camelCase"
     ],
     "component-selector": [
       true,
       "element",
       "app",
+      "qp",
       "kebab-case"
     ]
   }
